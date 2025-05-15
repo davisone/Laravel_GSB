@@ -37,4 +37,5 @@ Toutes les routes sont protégées par middleware `auth` :
 ## 👤 Auteur
 
 **Evan Davison**  
-> Développeur web – [GitHub](https://github.com/davisone)  
+> Développeur web – [GitHub](https://github.com/davisone)
+> 👉 [Portfolio](https://evandavison.fr)
