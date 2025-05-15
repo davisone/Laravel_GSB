@@ -1,0 +1,6 @@
+name,email,password,first_name,date_of_hire,postal_code,city,address
+John Doe,johndoe@example.com,secret123,John,2023-01-01,12345,New York,123 Main St
+Jane Doe,janedoe@example.com,pass456,Jane,2023-02-15,67890,Los Angeles,456 Oak St
+Bob Smith,bobsmith@example.com,p@ssword,Bob,2023-03-30,54321,Chicago,789 Elm St
+Alice Johnson,alicejohnson@example.com,alicepass,Alice,2023-04-10,98765,San Francisco,101 Pine St
+Charlie Brown,charliebrown@example.com,cbpass,Charlie,2023-05-20,13579,Miami,202 Palm St

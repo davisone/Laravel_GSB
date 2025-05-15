@@ -1,0 +1,42 @@
+USER STORY
+
+Authentification :
+L'utilisateur peut créer un compte
+L'utilisateur peut se connecter
+
+Navbar :
+L'utilisateur peut acceder aux pages Praticiens, Médicaments, Utilisateurs, Compte Rendus, Profil, Connexion, Inscription, Deconnexion
+
+Praticiens :
+L'utilisateur peut consulter la liste des praticiens
+L'utilisateur peut rechercher les praticiens par type, nom et ville
+L'utilisateur peut consulter une fiches informatives d'un praticien
+
+Médicaments :
+L'utilisateur peut consulter la liste des médicaments
+L'utilisateur peut consulter une fiches informatives d'un praticien
+
+Utilisateurs :
+L'utilisateur peut consulter la liste des utilisateurs
+L'utilisateur peut consulter une fiches informatives d'un utilisateur
+
+Compte Rendu :
+Si l'utilisateur n'est pas connecté alors :
+L'utilisateur ne peut pas acceder a la liste des comptes rendus qui est remplacer par des boutons de connexion ou inscription
+L'utilisateur ne peut pas acceder a une generation de pdf d'un compte rendu
+L'utilisateur ne peut pas acceder a la page de création d'un compte rendu
+Si l'utilisateur est connecté alors :
+L'utilisateur peut créer des comptes rendus
+L'utilisateur peut consulter les comptes rendus qu'il a crée
+L'utilisateur peut consulter seulement les comptes rendus qu'il a crée
+L'utilisateur peut acceder a la generation des pdf de seulement les comptes rendus qui lui appartient
+L'utilisateur peut generer un pdf de son compte rendu
+
+Profil (si connecté):
+L'utilisateur peut consulter son profil si il est connecté
+L'utilisateur peut supprimer son compte
+L'utilisateur peut modifier son mot de passe, nom
+L'utilisateur peut se deconnecter
+L'utilisateur peut activer l'authentification a deux facteurs
+L'utilisateur peut modifier ses informations 
+
